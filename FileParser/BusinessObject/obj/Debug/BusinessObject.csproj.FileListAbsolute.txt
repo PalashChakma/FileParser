@@ -1,0 +1,5 @@
+c:\users\palash\documents\visual studio 2010\Projects\FileParser\BusinessObject\bin\Debug\BusinessObject.dll
+c:\users\palash\documents\visual studio 2010\Projects\FileParser\BusinessObject\bin\Debug\BusinessObject.pdb
+c:\users\palash\documents\visual studio 2010\Projects\FileParser\BusinessObject\obj\Debug\BusinessObject.dll
+c:\users\palash\documents\visual studio 2010\Projects\FileParser\BusinessObject\obj\Debug\BusinessObject.pdb
+C:\Users\Palash\documents\visual studio 2010\Projects\FileParser\BusinessObject\obj\Debug\BusinessObject.csprojResolveAssemblyReference.cache

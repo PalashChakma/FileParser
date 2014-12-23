@@ -1,0 +1,10 @@
+c:\users\palash\documents\visual studio 2010\Projects\FileParser\ParseFile\bin\Debug\ParseFile.exe
+c:\users\palash\documents\visual studio 2010\Projects\FileParser\ParseFile\bin\Debug\ParseFile.pdb
+c:\users\palash\documents\visual studio 2010\Projects\FileParser\ParseFile\obj\x86\Debug\ParseFile.Properties.Resources.resources
+c:\users\palash\documents\visual studio 2010\Projects\FileParser\ParseFile\obj\x86\Debug\ParseFile.csproj.GenerateResource.Cache
+c:\users\palash\documents\visual studio 2010\Projects\FileParser\ParseFile\obj\x86\Debug\ParseFile.exe
+c:\users\palash\documents\visual studio 2010\Projects\FileParser\ParseFile\obj\x86\Debug\ParseFile.pdb
+c:\users\palash\documents\visual studio 2010\Projects\FileParser\ParseFile\obj\x86\Debug\ParseFile.Home.resources
+c:\users\palash\documents\visual studio 2010\Projects\FileParser\ParseFile\bin\Debug\BusinessObject.dll
+c:\users\palash\documents\visual studio 2010\Projects\FileParser\ParseFile\bin\Debug\BusinessObject.pdb
+c:\users\palash\documents\visual studio 2010\Projects\FileParser\ParseFile\obj\x86\Debug\ParseFile.csprojResolveAssemblyReference.cache

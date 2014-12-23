@@ -1,0 +1,7 @@
+c:\users\palash\documents\visual studio 2010\Projects\FileParser\FileParserTest\bin\Debug\FileParserTest.dll
+c:\users\palash\documents\visual studio 2010\Projects\FileParser\FileParserTest\bin\Debug\FileParserTest.pdb
+c:\users\palash\documents\visual studio 2010\Projects\FileParser\FileParserTest\obj\Debug\FileParserTest.dll
+c:\users\palash\documents\visual studio 2010\Projects\FileParser\FileParserTest\obj\Debug\FileParserTest.pdb
+c:\users\palash\documents\visual studio 2010\Projects\FileParser\FileParserTest\bin\Debug\BusinessObject.dll
+c:\users\palash\documents\visual studio 2010\Projects\FileParser\FileParserTest\bin\Debug\BusinessObject.pdb
+c:\users\palash\documents\visual studio 2010\Projects\FileParser\FileParserTest\obj\Debug\FileParserTest.csprojResolveAssemblyReference.cache
