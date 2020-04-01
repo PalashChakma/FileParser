@@ -10,28 +10,28 @@ namespace FileParserTest
     ///This is a test class for CsvFileParserTest and is intended
     ///to contain all CsvFileParserTest Unit Tests
     ///</summary>
-    [TestClass()]
-    public class CsvFileParserTest
-    {
+    //[TestClass()]
+    //public class CsvFileParserTest
+    //{
 
 
-        private TestContext testContextInstance;
+       // private TestContext testContextInstance;
 
         /// <summary>
         ///Gets or sets the test context which provides
         ///information about and functionality for the current test run.
         ///</summary>
-        public TestContext TestContext
-        {
-            get
-            {
-                return testContextInstance;
-            }
-            set
-            {
-                testContextInstance = value;
-            }
-        }
+        //public TestContext TestContext
+        //{
+          //  get
+            //{
+              //  return testContextInstance;
+            //}
+            //set
+            //{
+              //  testContextInstance = value;
+            //}
+        //}
 
         #region Additional test attributes
         // 
@@ -67,23 +67,23 @@ namespace FileParserTest
         /// <summary>
         ///A test for ParseFile
         ///</summary>
-        [TestMethod()]
-        public void ParseFileTest()
-        {
-            CsvFileParser target = new CsvFileParser(); // TODO: Initialize to an appropriate value
-            string filepath = string.Empty; // TODO: Initialize to an appropriate value
-            filepath = @"C:\Users\Palash\Desktop\youi\data.csv";
-            target.ParseFile(filepath);            
-        }
+        //[TestMethod()]
+        //public void ParseFileTest()
+        //{
+          //  CsvFileParser target = new CsvFileParser(); // TODO: Initialize to an appropriate value
+            //string filepath = string.Empty; // TODO: Initialize to an appropriate value
+            //filepath = @"C:\Users\Palash\Desktop\youi\data.csv";
+            //target.ParseFile(filepath);            
+        //}
 
         /// <summary>
         ///A test for CsvFileParser Constructor
         ///</summary>
         //[TestMethod()]
-        public void CsvFileParserConstructorTest()
-        {
-            CsvFileParser target = new CsvFileParser();
+        //public void CsvFileParserConstructorTest()
+        //{
+          //  CsvFileParser target = new CsvFileParser();
             
-        }
+        //}
     }*/
 }
