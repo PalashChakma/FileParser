@@ -1,11 +1,11 @@
-﻿using BusinessObject;
+using BusinessObject;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 
 namespace FileParserTest
 {
     
-    
+    /*
     /// <summary>
     ///This is a test class for CsvFileParserTest and is intended
     ///to contain all CsvFileParserTest Unit Tests
@@ -79,11 +79,11 @@ namespace FileParserTest
         /// <summary>
         ///A test for CsvFileParser Constructor
         ///</summary>
-        [TestMethod()]
+        //[TestMethod()]
         public void CsvFileParserConstructorTest()
         {
             CsvFileParser target = new CsvFileParser();
             
         }
-    }
+    }*/
 }
